@@ -11,11 +11,13 @@ Easy way to add Bisq Network API to your JS application.
 
 ---
 
+## **Donate**
+
 Help me to stack sats! :blush:
 
-[bc1qy3pynpjjxx09s9wpmwy3qqv0m7tmkpjpk0ze8y](bitcoin:bc1qy3pynpjjxx09s9wpmwy3qqv0m7tmkpjpk0ze8y)
+[bc1qn6d6g8ln5zppnh0k70sgmr745td7j2xsgw7elm](bitcoin:bc1qn6d6g8ln5zppnh0k70sgmr745td7j2xsgw7elm)
 
-[Or donate via Lightning Network!](https://paywall.link/to/mempool)
+[Or donate via Lightning Network!](https://paywall.link/to/bisq)
 
 ---
 
@@ -42,13 +44,13 @@ Help me to stack sats! :blush:
 
 ## **Installation**
 
-Using npm:
+Using **npm**:
 
 ```bash
 $ npm install bisq-js
 ```
 
-Using yarn:
+Using **yarn**:
 
 ```bash
 $ yarn add bisq-js
@@ -57,8 +59,6 @@ $ yarn add bisq-js
 ---
 
 ## **Usage**
-
-<br/>
 
 ### **Get Currencies**
 
